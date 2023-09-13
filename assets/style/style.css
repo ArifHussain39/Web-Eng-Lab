@@ -1,0 +1,74 @@
+#navBrand {
+    color: black;
+    font-size: 1.8rem;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+#navBrandImg {
+    width: 4.5rem;
+    height: 4.5rem;
+    margin-right: 1.2rem;
+}
+
+#navList {
+    color: #333;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 700;
+}
+
+
+
+.heading-primary {
+    font-size: 400%;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    text-align: center;
+    color: #111;
+    font-weight: 700;
+    margin-top: 15%;
+}
+
+.heading-About {
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    text-align: center;
+    color: #111;
+    font-weight: 700;
+    margin-top: 20%;
+}
+
+.heading-Project {
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    text-align: center;
+    color: #111;
+    font-weight: 700;
+    margin-top: 10%;
+}
+
+.heading-Contact {
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    text-align: center;
+    color: #111;
+    font-weight: 700;
+    margin-top: 10%;
+}
+
+.footer {
+    background-color: #333;
+    color: #fff;
+    padding: 40px 0;
+}
+
+.footer-links {
+    margin-top: 10px;
+}
+
+.footer-links a {
+    color: #fff;
+    margin-right: 20px;
+}
